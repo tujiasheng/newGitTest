@@ -1,3 +1,4 @@
 this is my git test
 this is onebranch file!!
  modify file one
+local modify
