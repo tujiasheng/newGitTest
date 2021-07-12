@@ -1,4 +1,8 @@
 这是在分支202107121022上修改的文件
 在master上修改的
 这是分支修改内容
+<<<<<<< Updated upstream
 dev01 bug
+=======
+dev
+>>>>>>> Stashed changes
